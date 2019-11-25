@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "model": "movies.grade",
+        "fields": {
+            "name": "전체관람가"
+        }
+    },
+    {
+        "id": 2,
+        "model": "movies.grade",
+        "fields": {
+            "name": "12세이상관람가"
+        }
+    },
+    {
+        "id": 3,
+        "model": "movies.grade",
+        "fields": {
+            "name": "15세이상관람가"
+        }
+    },
+    {
+        "id": 4,
+        "model": "movies.grade",
+        "fields": {
+            "name": "청소년관람불가"
+        }
+    },
+    {
+        "id": 5,
+        "model": "movies.grade",
+        "fields": {
+            "name": "제한상영가"
+        }
+    },
+    {
+        "id": 6,
+        "model": "movies.grade",
+        "fields": {
+            "name": "등급보류"
+        }
+    }
+]
